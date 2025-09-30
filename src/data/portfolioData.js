@@ -2,7 +2,7 @@ export const portfolioData = {
   personalInfo: {
     name: "Rupa Kumari",
     title: "Software Developer (Android)",
-    picture: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+    picture: "https://img.freepik.com/premium-photo/surprised-anime-girl-using-computer_1282444-262052.jpg",
     email: "",
     location: "",
     bio: "Software developer building clean, accessible, and performant experiences. Android (Kotlin → Flutter), with a foundation in web development."
