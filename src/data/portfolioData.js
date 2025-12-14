@@ -12,7 +12,7 @@ export const portfolioData = {
     linkedin: "https://www.linkedin.com/in/thegreatrupa/",
     github: "https://github.com/thegreatrupa",
     codeforces: "https://codeforces.com/profile/new_bee",
-    leetcode: "https://leetcode.com/rupa-kumari"
+    leetcode: "https://leetcode.com/u/TheGreatRupa/"
   },
   
   experience: {
@@ -60,15 +60,15 @@ export const portfolioData = {
     },
     mobile: {
       title: "Mobile Development",
-      skills: ["Kotlin", "Android", "Flutter"]
+      skills: ["Kotlin", "Android", "Flutter", "Android Studio", "IntelliJ IDEA"]
     },
     backend: {
       title: "Backend & Database",
-      skills: ["Node.js", "SQL"]
+      skills: ["Node.js", "SQL", "PostgreSQL", "Spring Boot", "Spring Security", "JWT", "RESTful Web Services"]
     },
     programming: {
       title: "Programming Languages",
-      skills: ["C++", "Kotlin", "JavaScript"]
+      skills: ["C++", "Kotlin", "JavaScript", "Java"]
     },
     tools: {
       title: "Tools & Technologies",
